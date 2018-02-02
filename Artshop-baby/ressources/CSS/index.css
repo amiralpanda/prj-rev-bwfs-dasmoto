@@ -1,0 +1,71 @@
+.menu{
+	text-align: center;
+	font-family:"Rubik Mono One", sans-serif;
+	font.size: 20px;
+	background-color: #333333;
+	box-sizing: 400px;
+}
+
+nav{
+	font-family: "Varela Round", sans-serif;
+	list-style: square;
+	color: red
+}
+	
+
+/*Menu*/
+
+		/* unvisited link */
+		a:link {
+		    color: red;
+		}
+
+		/* visited link */
+		a:visited {
+		    color: red
+		}
+
+		/* mouse over link */
+		a:hover {
+		    color: yellow;
+		}
+
+		/* selected link */
+		a:active {
+		    color: yellow;
+		}
+
+
+.header{
+	font-family: "Pacifico", cursive;
+	font-size: 30px;
+	color: #fff;
+	text-align: center;
+	background-image: url(../images/pattern.jpeg);
+}
+
+.title{
+	background-color: #929292;
+	color: #fff;
+	font-family: "Varela Round", sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+p, h4{
+	font-family: "Varela Round", sans-serif;
+}
+
+.price{
+	color: blue;
+	font-weight: bold;
+}
+
+.price:hover{
+	color: blue !important;
+}
+
+h4{
+	font-size: 16px;
+	font-weight: bold;
+}
